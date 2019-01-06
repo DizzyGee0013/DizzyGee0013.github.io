@@ -1,0 +1,36 @@
+img{
+  float: left;
+  width: 30%;  
+  padding: 10px;
+  border-width: 2px;
+  border-color: black;
+  border-style: groove;
+  margin: 10px 10px 10px 10px;
+}
+
+body{background-color: aquamarine}
+
+h1{font-style: italic;
+    font-size: 35pt;
+    text-align: center;
+    padding: 10px;
+    border-width: 5px;
+    border-color: black;
+    border-style: groove;
+    margin: 10px;
+    
+}
+
+h2{font-style: italic;
+    font-size: 28pt;
+    text-align: left;
+
+}
+
+p{font-size: 15pt;
+
+}
+
+ol{clear: left;
+
+}
